@@ -1,0 +1,6 @@
+@import url('./fonts/UHCSans-Medium.otf'); 
+
+
+body * {
+    font-family: 'UHC', sans-serif !important;
+}
